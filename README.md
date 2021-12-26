@@ -1,0 +1,2 @@
+# gurocorp
+nose
